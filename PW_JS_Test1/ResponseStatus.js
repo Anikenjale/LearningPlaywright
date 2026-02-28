@@ -49,3 +49,5 @@ function APIResponse(code)
         }
     }
 }
+
+console.log(APIResponse(200));
